@@ -12,4 +12,4 @@
 
 1. [Akilar](https://akilar.top/)提供的  akilar-SAO主题（也是默认主题）: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/akilar-SAO.css
 
-2. [张洪HEO](https://blog.zhheo.com/)提供的  heo主题: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/akilar-SAO.css
+2. [张洪HEO](https://blog.zhheo.com/)提供的  heo主题: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo.css
