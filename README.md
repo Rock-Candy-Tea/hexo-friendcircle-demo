@@ -44,9 +44,10 @@
 2. [张洪Heo](https://blog.zhheo.com/)提供的 Acrylic主题，CDN引入方案如下：
     ```html
     <!-- 友链朋友圈样式 -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo-fcircle3">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo-fcircle3.css">
    <!-- 全局引入抓取方法 -->
     <script defer src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fetch.js"></script>
    <!-- 友链朋友圈JS -->
    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/heo-fcircle3.js"></script>
    ```
+    注：此版仅有更新时间排序，UI极其简洁
