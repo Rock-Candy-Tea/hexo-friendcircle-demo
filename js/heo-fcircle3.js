@@ -11,11 +11,11 @@ function loadStatistical(sdata) {
   <div class="fMessageItem">
     <div class="fActiveFriend fItem">
       <span class="fMessage">${sdata.friends_num}</span>
-      <span class="fLabel">活跃</span>
+      <span class="fLabel">朋友</span>
     </div>
     <div class="fErrorSite fItem">
       <span class="fMessage">${sdata.active_num}</span>
-      <span class="fLabel">失效</span>
+      <span class="fLabel">活跃</span>
     </div>
     <div class="fArticleNum fItem">
     <span class="fMessage">${sdata.article_num}</span>
