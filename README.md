@@ -13,7 +13,7 @@
 ### JS无改动
 
 1. [Akilar](https://akilar.top/)提供的  akilar-SAO主题（也是默认主题）: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/akilar-SAO.css
-2. [张洪HEO](https://blog.zhheo.com/)提供的  heo主题: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo.css
+2. [张洪Heo](https://blog.zhheo.com/)提供的  heo主题: https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo.css
 
 ### JS有改动
 
@@ -40,3 +40,13 @@
    ```
 
    注：此版仅有更新时间排序，UI较为简洁
+
+2. [张洪Heo](https://blog.zhheo.com/)提供的 Acrylic主题，CDN引入方案如下：
+    ```html
+    <!-- 友链朋友圈样式 -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo-fcircle3">
+   <!-- 全局引入抓取方法 -->
+    <script defer src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fetch.js"></script>
+   <!-- 友链朋友圈JS -->
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/heo-fcircle3.js"></script>
+   ```
