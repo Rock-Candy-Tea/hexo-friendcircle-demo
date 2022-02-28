@@ -41,7 +41,7 @@
 
    注：此版仅有更新时间排序，UI较为简洁
 
-2. [张洪Heo](https://blog.zhheo.com/)提供的 Acrylic主题，CDN引入方案如下：
+2. [张洪Heo](https://blog.zhheo.com/)提供的 Acrylic主题，CDN引入方案如下：[预览地址](https://blog.zhheo.com/moments-public)
     ```html
     <!-- 友链朋友圈样式 -->
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/heo-fcircle3.css">
